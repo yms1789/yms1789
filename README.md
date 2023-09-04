@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/yms1789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yms1789&layout=compact&theme=buefy&hide_border=true" /></a>
 
 **Language**<br>
-
-- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
   ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
   ![flutter](https://img.shields.io/badge/fluuter-02569B?style=flat-squaree&logo=flutter&logoColor=white)
   ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
