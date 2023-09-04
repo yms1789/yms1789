@@ -91,7 +91,7 @@ Here are some ideas to get you started:
    <tbody>
      <tr>
        <td rowspan="1">App Programming</td>
-       <td><a href="#"><br>핀테크</a></td>
+       <td><a href="#">핀테크</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
        <td>React Native</td>
