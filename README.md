@@ -92,14 +92,14 @@ Here are some ideas to get you started:
    <tbody>
      <tr>
        <td rowspan="1">App Programming</td>
-       <td><a href="">~<br>핀테크</a></td>
+       <td><a href="#"><br>핀테크</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
        <td>React Native</td>
      </tr>
      <tr>
        <td rowspan="2">Web Programming</td>
-       <td><a href="https://github.com/kanghaeven/Petmily">Petmily<br>반려동물 큐레이션 ∙ <br>소셜 네트워크 서비스</a></td>
+       <td><a href="https://github.com/yms1789/petmily">Petmily<br>반려동물 큐레이션 ∙ <br>소셜 네트워크 서비스</a></td>
        <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
        <td>~</td>
        <td>React Recoil Tailwind css</td>
