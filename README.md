@@ -101,7 +101,7 @@ Here are some ideas to get you started:
        <td rowspan="2">Web Programming</td>
        <td><a href="https://github.com/kanghaeven/Petmily">Petmily<br>반려동물 큐레이션 ∙ <br>소셜 네트워크 서비스</a></td>
        <td>2023.07 ~ 2023.08 <br>(7 weeks)</td>
-       <td>실시간 1:1 채팅, <br>이미지 파일 통신, <br>소셜 네트워크 <br>기능 및 화면 구현</td>
+       <td>~</td>
        <td>React Recoil Tailwind css</td>
      </tr>
   </tbody>
