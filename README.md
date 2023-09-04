@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 **Language**<br><br>
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
   ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-squaree&logo=typescript&logoColor=white)
-  ![flutter](https://img.shields.io/badge/fluuter-02569B?style=flat-squaree&logo=flutter&logoColor=white)
   ![html5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-squaree&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-squaree&logo=css3&logoColor=white)
 
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 - Front-end frameworks & libraries <br>
   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=flat-squaree&logo=React&logoColor=black)
+  ![flutter](https://img.shields.io/badge/flutter-02569B?style=flat-squaree&logo=flutter&logoColor=white)
 
 - State Management Tools <br>
   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat-squaree&logo=redux&logoColor=white)
