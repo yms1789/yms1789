@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yms1789&show_icons=true&theme=radical)
-
-
 <!--인사-->
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Hello world!</h1>
 <!--소개-->
@@ -30,11 +27,20 @@ Here are some ideas to get you started:
     <a target="_blank" href="mailto:yms763514@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>  
 </div>
 
+**github stats**
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yms1789&show_icons=true&theme=radical)
+
+**Today**
+<br />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyms1789%2Fhit-counter&count_bg=%23414FFD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--기술 스택-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" alt="Mechanical Arm" width="2.3%" /> Skills
 
-<a href="https://github.com/yms1789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yms1789&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/yms1789/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yms1789&layout=compact&theme=buefy&hide_border=false" /></a>
 
 **Language**<br><br>
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-squaree&logo=javascript&logoColor=black)
@@ -90,8 +96,15 @@ Here are some ideas to get you started:
    </thead>
    <tbody>
      <tr>
+       <td rowspan="1">Web Programming</td>
+       <td><a href="https://github.com/yms1789/SeniorNaver">시니어를 위한 플랫폼</a></td>
+       <td>2023.10 ~ 2023.11 <br>(7 weeks)</td>
+       <td>~</td>
+       <td>React</td>
+     </tr>
+     <tr>
        <td rowspan="1">App Programming</td>
-       <td><a href="#">핀테크</a></td>
+       <td><a href="https://github.com/yms1789/gudgement">핀테크</a></td>
        <td>2023.08 ~ 2023.10 <br>(7 weeks)</td>
        <td>~</td>
        <td>React Native</td>
